@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam – Software Tester
 
-<!--
-**adamkgt/adamkgt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I specialize in manual and automated testing of web applications.  
+💻 Tools I work with: Cypress, Postman, Jira, TestLink, VisualStudioCode.         
+📜 Skills: UI/API testing, writing test cases, reporting bugs, CI/CD pipelines.                     
+📈 Passionate about automating repetitive tasks and analyzing test data to improve quality.        
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| [🔗 Cypress E2E Tests](https://github.com/adamkgt/test_auto) | Automated tests for a React app using Cypress | Cypress, JavaScript |
+
+
+---
+
+## 🧰 Tools & Technologies
+
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/adam-kogut/)
+- [Email](mailto:adamkgt@gmail.com)
+
+---
