@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adam – Software Tester
 
 🔍 I specialize in manual and automated testing of web applications.  
-💻 Tools I work with: Cypress, Postman, Jira, TestLink, VisualStudioCode.         
+💻 Tools I work with: Cypress, Postman, Jira, TestLink, VisualStudioCode, BrowserStack.        
 📜 Skills: UI/API testing, writing test cases, reporting bugs, CI/CD pipelines.                     
 📈 Passionate about automating repetitive tasks and analyzing test data to improve quality.        
 
