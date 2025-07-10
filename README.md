@@ -11,7 +11,7 @@
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [🔗 Cypress E2E Tests](https://github.com/adamkgt/test_auto) | Automated tests for a web app using Cypress | Cypress, JavaScript |
+| [🔗 Testelka](https://github.com/adamkgt/test_auto) | Automated tests for a web app using Cypress | Cypress, JavaScript |
 
 
 ---
