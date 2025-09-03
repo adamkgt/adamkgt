@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adam – Software Tester
 
 🔍 I specialize in manual and automated testing of web applications.  
-💻 Tools I work with: Cypress, Postman, Jira, TestLink, VisualStudioCode, BrowserStack.        
+💻 Tools I work with: Cypress, Playwirght, Postman, Jira, TestLink, VisualStudioCode, BrowserStack.        
 📜 Skills: UI/API testing, writing test cases, reporting bugs, CI/CD pipelines.                     
 📈 Passionate about automating repetitive tasks and analyzing test data to improve quality.        
 
@@ -23,6 +23,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
 
 ---
 
