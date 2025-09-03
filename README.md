@@ -5,7 +5,7 @@
 📜 Skills: UI/API testing, writing test cases, reporting bugs, CI/CD pipelines.                     
 📈 Passionate about automating repetitive tasks and analyzing test data to improve quality.        
 
---- adamkgt.github.io/DataGenerator/
+---
 
 ## 🚀 My Projects
 
