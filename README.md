@@ -12,8 +12,8 @@
 | Project | Description | Tools |
 |---------|-------------|-------|
 | [🔗 Testelka](https://github.com/adamkgt/test_auto)                   | Automated tests for a web app using Cypress                | Cypress, JavaScript   |
-| [🔗 My QA App](https://adamkgt.github.io/QAApp/)                      | Test case management application                            | JavaScript, CSS, HTML |
-| [🔗 My Data Generator App](https://adamkgt.github.io/DataGenerator/)  | Test data generator app ([🖥 App](https://adamkgt.github.io/DataGenerator/) / [🧪 Tests](https://github.com/adamkgt/DataGenerator)) with written tests and scenarios | JavaScript, CSS, HTML |
+| [🔗 My QA App](https://adamkgt.github.io/QAApp/)                      | Test case management application ([🖥 App](https://adamkgt.github.io/QAApp/) / [🧪 Playwright Tests](https://github.com/adamkgt/playwright_tests)) | JavaScript, CSS, HTML |
+| [🔗 My Data Generator App](https://adamkgt.github.io/DataGenerator/)  | Test data generator app ([🖥 App](https://adamkgt.github.io/DataGenerator/) / [🧪 Manual Tests](https://github.com/adamkgt/DataGenerator)) with written tests and scenarios | JavaScript, CSS, HTML |
 
 
 
